@@ -6,9 +6,9 @@
  */
 
 import React, {
-    PropTypes,
     Component,
-} from 'react'
+} from 'react';
+import PropTypes from 'prop-types';
 import {
     View,
     requireNativeComponent,
